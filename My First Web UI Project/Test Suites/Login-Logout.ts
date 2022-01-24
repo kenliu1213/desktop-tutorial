@@ -35,6 +35,12 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
+      <guid>103e5a26-fe1c-4dfd-9ade-a1c334ca98c4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Setup-Testbed/TC-4 Create WLAN</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
       <guid>16c681bd-7743-4018-bb64-b4bb97dec35f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

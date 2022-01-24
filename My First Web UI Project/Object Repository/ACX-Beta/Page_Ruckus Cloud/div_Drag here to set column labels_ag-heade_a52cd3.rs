@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Drag here to set column labels_ag-heade_a52cd3</name>
+   <tag></tag>
+   <elementGuidId>7c30f19e-d2e3-4e20-afe0-fb4dad4225fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ag-header-cell-resize</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref</name>
+      <type>Main</type>
+      <value>eResize</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-header-cell-resize</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container minimized&quot;]/div[@class=&quot;main-area&quot;]/rc-ap-group-details[@class=&quot;ng-star-inserted&quot;]/rc-tabs[1]/div[@class=&quot;content-frame overview ng-star-inserted&quot;]/rc-ap-group-aps-tab[@class=&quot;ng-star-inserted&quot;]/rc-aps-list[@class=&quot;list-layout&quot;]/div[@class=&quot;content-frame grid-layout no-border-padding&quot;]/div[@class=&quot;table-area&quot;]/rc-aps-grid[1]/rc-new-grid[1]/div[@class=&quot;ui-table&quot;]/ag-grid-angular[@class=&quot;ag-theme-alpine ng-star-inserted&quot;]/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-header ag-focus-managed ag-pivot-off&quot;]/div[@class=&quot;ag-header-viewport&quot;]/div[@class=&quot;ag-header-container&quot;]/div[@class=&quot;ag-header-row ag-header-row-column&quot;]/div[@class=&quot;ag-header-cell ag-focus-managed ag-header-cell-sortable ag-column-hover ag-header-active&quot;]/div[@class=&quot;ag-header-cell-resize&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

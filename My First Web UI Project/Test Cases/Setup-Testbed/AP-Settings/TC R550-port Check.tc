@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check R550 Port Default Settings
+1. Check R550 Picture 
+2. Check R550 model name
+3. Check R550 Port default seting: Trunk, Default Vlan 1, Port Picture present
+</description>
+   <name>TC R550-port Check</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ede0662d-65b7-48bd-81e8-6ff5fc5742e3</testCaseGuid>
+</TestCaseEntity>

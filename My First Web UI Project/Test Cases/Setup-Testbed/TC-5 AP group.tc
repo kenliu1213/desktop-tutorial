@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add R550 to one AP Group</description>
+   <name>TC-5 AP group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8a807f5-4bc7-41d8-92a6-2d07376b4c1f</testCaseGuid>
+</TestCaseEntity>

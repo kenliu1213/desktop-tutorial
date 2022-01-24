@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>open browser</description>
+   <name>TC-4 Create WLAN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1c0e3a1-213f-478e-a442-4d9f448bd95b</testCaseGuid>
+</TestCaseEntity>

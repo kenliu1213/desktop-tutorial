@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Move AP to the new Venue</description>
+   <name>TC-6 Edit AP to new Venue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4105444-9a54-4383-acd4-d5562d4a9ceb</testCaseGuid>
+</TestCaseEntity>

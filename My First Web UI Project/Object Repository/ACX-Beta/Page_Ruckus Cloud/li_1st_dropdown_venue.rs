@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1st_dropdown_venue</name>
+   <tag></tag>
+   <elementGuidId>a800bdd0-c393-4ca9-9cc9-27c760dc2e80</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.p-dropdown-item.p-ripple > span.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Ken-Test-Venue' or . = 'Ken-Test-Venue')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dropdown[@id='venue']/div/div[3]/div/ul/p-dropdownitem/li/span</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ken-Test-Venue</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-ap-group-dialog[1]/rc-dialog[@class=&quot;ap-group wizard&quot;]/p-dialog[@class=&quot;popup-dialog ng-tns-c60-10 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-10 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c60-10 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-10 p-dialog-content&quot;]/div[@class=&quot;dialog-content ng-tns-c60-10&quot;]/rc-wizard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wizard-body&quot;]/div[1]/rc-wizard-step[1]/form[@class=&quot;ng-star-inserted ng-touched ng-dirty ng-invalid&quot;]/div[@class=&quot;field-group-2 required-field margin-top&quot;]/p-dropdown[@id=&quot;venue&quot;]/div[@class=&quot;ng-tns-c51-11 p-dropdown p-component p-dropdown-open p-focus&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c51-11 p-dropdown-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-dropdown-items-wrapper ng-tns-c51-11&quot;]/ul[@class=&quot;p-dropdown-items ng-tns-c51-11&quot;]/p-dropdownitem[@class=&quot;ng-tns-c51-11 ng-star-inserted&quot;]/li[@class=&quot;p-dropdown-item p-ripple&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-dropdown[@id='venue']/div/div[3]/div/ul/p-dropdownitem/li/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select venue...'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Venue:'])[1]/following::span[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My-Venue'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field is required'])[2]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+   </webElementXpaths>
+</WebElementEntity>

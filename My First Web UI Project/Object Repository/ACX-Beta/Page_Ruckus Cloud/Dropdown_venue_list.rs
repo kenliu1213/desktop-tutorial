@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown_venue_list</name>
+   <tag></tag>
+   <elementGuidId>a81c5074-69bb-476b-9308-003eb9ebeb6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-trigger.ng-trigger-overlayAnimation.ng-tns-c51-13.p-dropdown-panel.p-component.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dropdown[@id='venue']/div/div[3]/div/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-trigger ng-trigger-overlayAnimation ng-tns-c51-13 p-dropdown-panel p-component ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ken-Test-VenueMy-Venue</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-ap-group-dialog[1]/rc-dialog[@class=&quot;ap-group wizard&quot;]/p-dialog[@class=&quot;popup-dialog ng-tns-c60-12 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-12 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c60-12 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-12 p-dialog-content&quot;]/div[@class=&quot;dialog-content ng-tns-c60-12&quot;]/rc-wizard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wizard-body&quot;]/div[1]/rc-wizard-step[1]/form[@class=&quot;ng-star-inserted ng-touched ng-dirty ng-invalid&quot;]/div[@class=&quot;field-group-2 required-field margin-top&quot;]/p-dropdown[@id=&quot;venue&quot;]/div[@class=&quot;ng-tns-c51-13 p-dropdown p-component p-dropdown-open p-focus&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c51-13 p-dropdown-panel p-component ng-star-inserted&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-dropdown[@id='venue']/div/div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select venue...'])[1]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Venue:'])[1]/following::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdown/div/div[3]</value>
+   </webElementXpaths>
+</WebElementEntity>

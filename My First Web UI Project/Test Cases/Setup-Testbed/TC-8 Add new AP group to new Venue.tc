@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add R550 to one AP Group</description>
+   <name>TC-8 Add new AP group to new Venue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6b39e4f-c7ba-4965-bcf4-dd5c4693497b</testCaseGuid>
+</TestCaseEntity>

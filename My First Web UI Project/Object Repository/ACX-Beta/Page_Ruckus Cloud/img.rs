@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>e3216c3a-e79c-43a9-a713-cb7fad8d56be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://maps.gstatic.com/mapfiles/transparent.png']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[contains(@src,'https://maps.gstatic.com/mapfiles/transparent.png')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://maps.gstatic.com/mapfiles/transparent.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-venue-dialog[1]/rc-dialog[1]/p-dialog[@class=&quot;popup-dialog ng-tns-c60-10 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-10 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c60-10 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-10 p-dialog-content&quot;]/div[@class=&quot;dialog-content ng-tns-c60-10&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;gmap&quot;]/p-gmap[1]/div[1]/div[1]/div[@class=&quot;gm-style&quot;]/div[2]/div[2]/div[1]/div[3]/div[1]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://maps.gstatic.com/mapfiles/transparent.png')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/p-gmap/div/div/div/div[2]/div[2]/div/div[3]/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

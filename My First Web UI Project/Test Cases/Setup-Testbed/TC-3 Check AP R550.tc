@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check AP R550</description>
+   <name>TC-3 Check AP R550</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee973674-dd74-46e4-b323-93ac35b01dd2</testCaseGuid>
+</TestCaseEntity>

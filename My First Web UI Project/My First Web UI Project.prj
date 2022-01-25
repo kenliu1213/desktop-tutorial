@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>ACX Web UI Project</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>0</key>
+            <value>{'testSuiteFolderMappeds':['Test Suites'],'name':'ACX','testCaseFolderMappeds':['Test Cases'],'id':108284}</value>
+         </entry>
+         <entry>
+            <key>1</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'Alto','testCaseFolderMappeds':[],'id':80878}</value>
+         </entry>
+      </properties>
+      <type>PROJECT</type>
+   </integratedEntity>
+   <UUID>9742f2e4-acfa-4d1e-ba6e-36c962a5af50</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Kliu\Katalon Studio\My First Web UI Project\My First Web UI Project.prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <type>WEBUI</type>
+</Project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logout from ACX</description>
+   <name>TC-1.2 Logout</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>versionId</key>
+            <value>81673695</value>
+         </entry>
+         <entry>
+            <key>name</key>
+            <value>TC-5 Logout</value>
+         </entry>
+         <entry>
+            <key>pid</key>
+            <value>TC-3729</value>
+         </entry>
+         <entry>
+            <key>id</key>
+            <value>53594983</value>
+         </entry>
+         <entry>
+            <key>version</key>
+            <value>0.1</value>
+         </entry>
+         <entry>
+            <key>parentId</key>
+            <value>11930742</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>a3c679de-411a-4a2f-afa3-0cf188d8998b</testCaseGuid>
+</TestCaseEntity>

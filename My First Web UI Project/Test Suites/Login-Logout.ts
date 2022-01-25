@@ -9,7 +9,7 @@
          <entry>
             <key>0</key>
             <value>{&quot;parent&quot;:{&quot;parentName&quot;:&quot;&quot;,&quot;name&quot;:&quot;leo trial release&quot;,&quot;id&quot;:914803,&quot;type&quot;:8,&quot;parentId&quot;:0},
-&quot;default&quot;:false,&quot;name&quot;:&quot;Login-Logout&quot;,&quot;pid&quot;:&quot;&quot;,&quot;id&quot;:0,&quot;testRuns&quot;:[]}</value>
+&quot;default&quot;:false,&quot;name&quot;:&quot;Login-Logout&quot;,&quot;pid&quot;:&quot;&quot;,&quot;id&quot;:7609880,&quot;testRuns&quot;:[]}</value>
          </entry>
       </properties>
       <type>TESTSUITE</type>
@@ -33,12 +33,6 @@
          <value></value>
          <variableId>7896cd81-21f8-4cbf-a434-f96191687593</variableId>
       </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>103e5a26-fe1c-4dfd-9ade-a1c334ca98c4</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Setup-Testbed/TC-4 Create WLAN</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>16c681bd-7743-4018-bb64-b4bb97dec35f</guid>

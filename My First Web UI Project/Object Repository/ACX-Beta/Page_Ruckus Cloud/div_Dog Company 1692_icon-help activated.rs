@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Dog Company 1692_icon-user activated</name>
+   <name>div_Dog Company 1692_icon-help activated</name>
    <tag></tag>
-   <elementGuidId>68922b9d-3d27-4806-8a0e-0e0df089ef61</elementGuidId>
+   <elementGuidId>d7671ce1-d17a-40f9-b8fa-b7f3b22035a3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.icon-user.activated</value>
+         <value>div.icon-help.activated</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[2]/div[3]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/rc-topbar[1]/div[@class=&quot;topbar-container&quot;]/div[@class=&quot;topbar-right&quot;]/div[@class=&quot;click-boxes ng-star-inserted&quot;]/div[@class=&quot;icon-user activated&quot;]</value>
+         <value>//div[2]/div[2]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,43 +26,36 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>rctooltip</name>
-      <type>Main</type>
-      <value>User Options</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>delay</name>
-      <type>Main</type>
-      <value>500</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placement</name>
+      <name>tooltipposition</name>
       <type>Main</type>
       <value>bottom</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>tooltipstyleclass</name>
+      <type>Main</type>
+      <value>user-name-tooltip</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>icon-user activated</value>
+      <value>icon-help activated</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/rc-topbar[1]/div[@class=&quot;topbar-container&quot;]/div[@class=&quot;topbar-right&quot;]/div[@class=&quot;click-boxes ng-star-inserted&quot;]/div[@class=&quot;icon-user activated&quot;]</value>
+      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/rc-topbar[1]/div[@class=&quot;topbar-container&quot;]/div[@class=&quot;topbar-right&quot;]/div[@class=&quot;click-boxes ng-star-inserted&quot;]/div[@class=&quot;icon-help activated&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[3]</value>
+      <value>//div[2]/div[2]</value>
    </webElementXpaths>
 </WebElementEntity>

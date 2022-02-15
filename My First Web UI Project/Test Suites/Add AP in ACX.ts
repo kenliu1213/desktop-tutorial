@@ -27,7 +27,7 @@
       <guid>630829e7-e16b-4ab6-bccb-eeb7e4e98a39</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Setup-Testbed/AP-Settings/Add R550</testCaseId>
+      <testCaseId>Test Cases/Setup-Testbed/AP-Settings/Add R510</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>c73a1a1c-2f16-4fd1-9e3b-d7f53cc7e981</guid>

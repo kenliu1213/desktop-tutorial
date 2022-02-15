@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Ken-R550p_in_APs</name>
+   <name>span_Ken-R510_in_APs</name>
    <tag></tag>
-   <elementGuidId>24baa151-2702-4719-a537-9cfa61314908</elementGuidId>
+   <elementGuidId>db2d6fd9-47a7-44c4-98d7-45d6e5050775</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[1]/following::span[3]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>span.icon-text.link</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Ken-R550p' or . = 'Ken-R550p')]</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[1]/following::span[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -39,7 +35,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Ken-R550p</value>
+      <value>Ken-R510</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

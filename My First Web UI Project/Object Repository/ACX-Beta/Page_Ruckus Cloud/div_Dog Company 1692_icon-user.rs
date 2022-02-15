@@ -6,15 +6,19 @@
    <elementGuidId>4f2df6d2-b693-4db8-8416-5f0135483d8c</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>div.icon-user</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[2]/div[3]</value>
+         <key>BASIC</key>
+         <value>//*[@rctooltip = 'User Options' and @class = 'icon-user']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -24,7 +28,7 @@
       <value>div</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>rctooltip</name>
       <type>Main</type>
@@ -45,14 +49,14 @@
       <value>bottom</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>icon-user</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>

@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_My-Venue</name>
+   <name>li_My-Venue-1</name>
    <tag></tag>
-   <elementGuidId>c9bc8507-013d-4331-860f-416c18ddcbfe</elementGuidId>
+   <elementGuidId>ce290089-331e-4681-a052-6872a1cae1eb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//p-dropdown[@id='venue']/div/div[3]/div/ul/p-dropdownitem/li</value>
+         <value>//p-dropdown[@id='venue']/div/div[3]/div/ul/p-dropdownitem[2]/li</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li.p-dropdown-item.p-ripple</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'My-Venue' or . = 'My-Venue')]</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -39,7 +35,7 @@
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>My-Venue</value>
+      <value>My-Venue-1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +56,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>My-Venue</value>
+      <value>My-Venue-1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,48 +70,41 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//p-dropdown[@id='venue']/div/div[3]/div/ul/p-dropdownitem/li</value>
+      <value>//p-dropdown[@id='venue']/div/div[3]/div/ul/p-dropdownitem[2]/li</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select venue...'])[1]/following::li[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My-Venue'])[1]/following::li[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Venue:'])[1]/following::li[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select venue...'])[1]/following::li[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My-Venue-1'])[1]/preceding::li[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field is required'])[1]/preceding::li[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li</value>
+      <value>//p-dropdownitem[2]/li</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[(text() = 'My-Venue' or . = 'My-Venue')]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field is required'])[2]/preceding::li[1]</value>
+      <value>//li[(text() = 'My-Venue-1' or . = 'My-Venue-1')]</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -35,6 +35,24 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
+      <guid>523d996f-6ea0-41c2-949c-c7b832916649</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Setup-Testbed/AP-Settings/Add R510</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f78ea6d2-a44c-42f9-8d67-f6334dde2785</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Setup-Testbed/AP-Settings/Add R550</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d1028f5c-e9de-4bd2-9dc4-715750664d6f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Setup-Testbed/AP-Settings/Add R750</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
       <guid>16c681bd-7743-4018-bb64-b4bb97dec35f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

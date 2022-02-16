@@ -6,15 +6,19 @@
    <elementGuidId>7a9b4353-703c-4557-a9de-8f0c8b673074</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='VLAN'])[1]/following::span[3]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.icon-text.link</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Dogfood-ACX-WPA-1' or . = 'Dogfood-ACX-WPA-1')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='VLAN'])[1]/following::span[3]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

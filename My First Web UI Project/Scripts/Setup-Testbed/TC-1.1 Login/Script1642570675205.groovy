@@ -22,7 +22,7 @@ WebUI.openBrowser('https://qaalto.ruckuswireless.com/')
 
 WebUI.navigateToUrl('https://qaalto.ruckuswireless.com/')
 
-'dog1692@email.com'
+'dog@email.com'
 WebUI.setText(findTestObject('ACX-Beta/Page_Log in to RUCKUS Cloud/input_RUCKUS Cloud_userusername'), username)
 
 'password-1'
@@ -30,7 +30,7 @@ WebUI.setEncryptedText(findTestObject('ACX-Beta/Page_Log in to RUCKUS Cloud/inpu
 
 WebUI.click(findTestObject('ACX-Beta/Page_Log in to RUCKUS Cloud/input_RUCKUS Cloud Status_commit'))
 
-Log.logInfo("Check Window size and Error")
+Log.logInfo('Check Window size and Error')
 
 try {
     WebUI.verifyElementPresent(findTestObject('Object Repository/ACX-Beta/Page_500/span_Technical error'), 3)

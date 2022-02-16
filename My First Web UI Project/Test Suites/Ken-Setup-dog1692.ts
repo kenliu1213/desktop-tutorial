@@ -26,19 +26,31 @@
    <testCaseLink>
       <guid>72318350-f4f9-4d97-9619-6a60d3f3c6fc</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Setup-Testbed/AP-Settings/Add R550</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f95c0529-4b0b-4e17-8c6e-b29af8eb559c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Setup-Testbed/AP-Settings/Add R510</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8cca46dc-ddbe-4347-921d-5e28e279f575</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Setup-Testbed/AP-Settings/Add R750</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>262659f0-d95e-4a46-bc26-d2d67a096683</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Setup-Testbed/TC-2 Create 1 Venue</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>fd92a602-d80e-4f2e-8a1e-ffc0fa09edbf</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Setup-Testbed/TC-4 Create WLAN</testCaseId>
    </testCaseLink>
    <testCaseLink>
@@ -56,7 +68,7 @@
    <testCaseLink>
       <guid>fc06af7d-2a7c-46e8-975d-8b01d7c377b7</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Setup-Testbed/TC-7 Edit WLAN to new Venue</testCaseId>
    </testCaseLink>
    <testCaseLink>

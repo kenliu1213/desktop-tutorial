@@ -61,5 +61,7 @@ WebUI.verifyMatch(alertText, 'Trigger Execution Group, AP_mgmt_Testing_2022Q1Bet
 
 WebUI.acceptAlert(FailureHandling.CONTINUE_ON_FAILURE)
 
+WebUI.delay(1)
+
 WebUI.acceptAlert(FailureHandling.CONTINUE_ON_FAILURE)
 

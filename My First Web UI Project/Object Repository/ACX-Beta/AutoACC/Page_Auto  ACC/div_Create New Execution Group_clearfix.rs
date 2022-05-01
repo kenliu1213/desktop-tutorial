@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create New Execution Group_clearfix</name>
+   <tag></tag>
+   <elementGuidId>6c9c6ff2-1a8f-4b7c-bc65-20395fe1be78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-8.col-sm-8.col-xs-12 > div.x_panel > div.x_title > div.clearfix</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aaf74a68-b82d-4520-a161-ef482cd99314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clearfix</value>
+      <webElementGuid>71ce768c-0444-4bb4-a7fb-f38a4d08f8e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;nav-md&quot;]/div[@class=&quot;container body&quot;]/div[@class=&quot;main_container&quot;]/div[@class=&quot;right_col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-sm-8   col-xs-12&quot;]/div[@class=&quot;x_panel&quot;]/div[@class=&quot;x_title&quot;]/div[@class=&quot;clearfix&quot;]</value>
+      <webElementGuid>9a1ac592-fb79-4232-b0ec-d759aabe20c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>0bc54a75-a7cc-4fb7-8082-9f76cf4008bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

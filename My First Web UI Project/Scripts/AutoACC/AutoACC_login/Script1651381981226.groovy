@@ -31,11 +31,11 @@ WebUI.click(findTestObject('Object Repository/ACX-Beta/AutoACC/Page_Auto Acclera
 
 WebUI.maximizeWindow()
 
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/ACX-Beta/AutoACC/Page_Auto  ACC/span_Succeeded'), 10)
 
+WebUI.scrollToElement(findTestObject('ACX-Beta/AutoACC/Page_Auto  ACC/td_10'), 1)
 
-WebUI.scrollToElement(findTestObject('Object Repository/ACX-Beta/AutoACC/Page_Auto  ACC/h2_Execution Groups'), 3)
+WebUI.scrollToElement(findTestObject('ACX-Beta/AutoACC/Page_Auto  ACC/div_Create New Execution Group_clearfix'), 3)
 
 WebUI.scrollToElement(findTestObject('Object Repository/ACX-Beta/AutoACC/Page_Auto  ACC/td_AP_mgmt_Testing_2022Q1Beta'), 
     1)
@@ -61,5 +61,5 @@ WebUI.verifyMatch(alertText, 'Trigger Execution Group, AP_mgmt_Testing_2022Q1Bet
 
 WebUI.acceptAlert(FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.sendKeys(findTestObject(null), 'Keys.chord(Keys.ENTER)')
+WebUI.acceptAlert(FailureHandling.CONTINUE_ON_FAILURE)
 

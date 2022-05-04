@@ -31,7 +31,14 @@ WebUI.click(findTestObject('Object Repository/ACX-Beta/AutoACC/Page_Auto Acclera
 
 WebUI.maximizeWindow()
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/ACX-Beta/AutoACC/Page_Auto  ACC/span_Succeeded'), 10)
+while (WebUI.verifyElementPresent(findTestObject('ACX-Beta/AutoACC/Page_Auto  ACC/span_Pending_tr1'), 3)) {
+    WebUI.refresh()
+
+    WebUI.delay(10)
+}
+
+WebUI.verifyElementAttributeValue(findTestObject('ACX-Beta/AutoACC/Page_Auto  ACC/span_Succeeded'), 'text', 'Successed', 
+    3)
 
 WebUI.scrollToElement(findTestObject('ACX-Beta/AutoACC/Page_Auto  ACC/td_10'), 1)
 
@@ -64,4 +71,6 @@ WebUI.acceptAlert(FailureHandling.CONTINUE_ON_FAILURE)
 WebUI.delay(1)
 
 WebUI.acceptAlert(FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.acceptAlert()
 

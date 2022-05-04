@@ -45,8 +45,7 @@ catch (Exception exp) {
 } 
 
 try {
-    WebUI.verifyElementPresent(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/div_Hey, you are missing the bigger picture'), 
-        3)
+    WebUI.verifyElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_need the bigger picture'), 3)
 
     WebUI.maximizeWindow()
 }

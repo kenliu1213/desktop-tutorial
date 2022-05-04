@@ -22,10 +22,34 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>4c8ab709-06e4-4b50-ba70-d590de1da183</webElementGuid>
+      <webElementGuid>8617b74a-0afb-4d50-b979-951f9e29c471</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>f8127cba-27ab-4aad-a150-8318f81bb708</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;test_stats&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[1]</value>
+      <webElementGuid>5bcc7f92-5676-48b7-a9bf-34443a560a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4c8ab709-06e4-4b50-ba70-d590de1da183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -46,7 +70,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='test_stats']/tbody/tr[10]/td</value>
-      <webElementGuid>0754bf48-10d7-45ca-b9c5-2ecd18d2d173</webElementGuid>
+      <webElementGuid>dd6d34b0-6e75-4b32-899c-d847d8647a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[26]/following::td[1]</value>
+      <webElementGuid>fdb297e8-08df-4c80-b71f-bc993d778714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Succeeded'])[3]/following::td[3]</value>
+      <webElementGuid>77f7df07-403b-48d0-a4c2-1184417b51da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May. 01, 2022, 13:23 PM'])[10]/preceding::td[1]</value>
+      <webElementGuid>2c5098f3-59e4-436e-a389-33157891f272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TE_10_223_13_11_token'])[10]/preceding::td[2]</value>
+      <webElementGuid>482d376c-0790-425b-b6bb-de8bbaed1112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td</value>
+      <webElementGuid>3b72a0f4-184c-4cec-86b4-08740a798e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '10' or . = '10')]</value>
+      <webElementGuid>28558fb9-c0ec-47af-beec-0f216f191df9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,29 +143,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='May. 01, 2022, 09:17 AM'])[10]/preceding::td[1]</value>
       <webElementGuid>6fa2aa09-e355-41a2-a2f5-696d2262de0c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TE_10_223_13_11_token'])[10]/preceding::td[2]</value>
-      <webElementGuid>2e36def3-28bd-4e44-ad0d-f0453603544a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//tr[10]/td</value>
-      <webElementGuid>895dec79-74e1-48fb-9ed4-256d65b3108c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//td[(text() = '10' or . = '10')]</value>
-      <webElementGuid>286fd428-2371-48d8-b8a1-4ecf824476e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

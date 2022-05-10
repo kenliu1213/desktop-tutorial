@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ken-R550p Properties_icon icon-sm icon-de_5d70c6</name>
+   <tag></tag>
+   <elementGuidId>a04491a2-21de-4fa8-b105-d6ee9ad2f557</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon.icon-sm.icon-delete.close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='pr_id_18-label']/p-header/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>912167e4-6aba-462d-b07b-76e1ae4407f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>9bbbe615-6fdb-4355-8dd8-3e5b3c3d7d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-sm icon-delete close</value>
+      <webElementGuid>6a91189e-3097-4d07-bc49-6b35f3e947ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-ap-properties-dialog[1]/rc-dialog[1]/p-dialog[@class=&quot;popup-dialog ng-tns-c141-110 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-110 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c141-110 tab-dialog ap-properties-dialog p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-header ng-tns-c141-110 ng-star-inserted&quot;]/span[@id=&quot;pr_id_18-label&quot;]/p-header[@class=&quot;ng-tns-c141-110&quot;]/div[@class=&quot;icons&quot;]/a[@class=&quot;icon icon-sm icon-delete close&quot;]</value>
+      <webElementGuid>bcbc76c4-6d3e-44f5-8d3a-f69fba0073f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='pr_id_18-label']/p-header/div/a</value>
+      <webElementGuid>b7051eb6-c061-4e14-9a78-4bf666f8db36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-header/div/a</value>
+      <webElementGuid>10e7377e-781f-40bf-940e-5f595899222f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

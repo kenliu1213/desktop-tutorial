@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Radio Bands_p-multiselect-trigger-icon ng-tns-c114-28 pi pi-chevron-down</name>
+   <tag></tag>
+   <elementGuidId>c17b4402-7497-47b0-ade5-418cc5211561</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-multiselect-trigger-icon.ng-tns-c114-28.pi.pi-chevron-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>13680c1b-03b6-4474-8c03-433d0ee16d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-multiselect-trigger-icon ng-tns-c114-28 pi pi-chevron-down</value>
+      <webElementGuid>5423826b-b8f0-491c-88bc-4ec3b96cc850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-network-ap-group-dialog[1]/rc-dialog[@class=&quot;network-ap-group&quot;]/p-dialog[@class=&quot;popup-dialog ng-tns-c141-27 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-27 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c141-27 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-27 p-dialog-content&quot;]/div[@class=&quot;dialog-content ng-tns-c141-27&quot;]/div[@class=&quot;popup-cell&quot;]/div[@class=&quot;radio-container&quot;]/div[@class=&quot;container grey-bg ng-star-inserted&quot;]/div[@class=&quot;field-group-2&quot;]/p-multiselect[@class=&quot;ng-tns-c114-28 ng-untouched ng-pristine ng-valid ng-star-inserted p-inputwrapper-filled&quot;]/div[@class=&quot;ng-tns-c114-28 p-multiselect p-component&quot;]/div[@class=&quot;ng-tns-c114-28 p-multiselect-trigger&quot;]/span[@class=&quot;p-multiselect-trigger-icon ng-tns-c114-28 pi pi-chevron-down&quot;]</value>
+      <webElementGuid>e8b6769f-2a61-4d06-9576-2fa17191c6f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/span</value>
+      <webElementGuid>cbf8b23d-04cd-4e3d-aabd-9ebbb5220744</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

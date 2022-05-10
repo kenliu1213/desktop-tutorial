@@ -6,12 +6,12 @@
    <elementGuidId>bcdb34fd-f755-4114-930c-1bfd37cd2c7b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.button-with-spinner.ng-star-inserted > p-button.orange-btn > button.p-ripple.p-button.p-component > span.p-button-label.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>c52cbc8b-e8d1-4755-9a0d-a5ccb15304d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-button-label ng-star-inserted</value>
+      <webElementGuid>b6bdc7cc-6d74-48f3-8d3d-b8b33586ba1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,39 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
+      <webElementGuid>4be050c4-abc0-4ca0-848f-b442a5479756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-network-ap-group-dialog[1]/rc-dialog[@class=&quot;network-ap-group&quot;]/p-dialog[@class=&quot;popup-dialog ng-tns-c141-27 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-27 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c141-27 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-footer ng-tns-c141-27 ng-star-inserted&quot;]/p-footer[@class=&quot;ng-tns-c141-27 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;footer-buttons&quot;]/rc-button-with-spinner[1]/div[@class=&quot;button-with-spinner ng-star-inserted&quot;]/p-button[@class=&quot;orange-btn&quot;]/button[@class=&quot;p-ripple p-button p-component&quot;]/span[@class=&quot;p-button-label ng-star-inserted&quot;]</value>
+      <webElementGuid>d524165a-da97-47af-831c-5f9e690d809f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>40bb9698-7c0d-493b-a972-43f348df2d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label ng-star-inserted</value>
+      <webElementGuid>0a2ff6bf-94a1-48dc-9917-f1e2a2e0c77f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>cae0bd38-883b-4fea-b760-65a6b3ce1566</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,20 +78,23 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-ap-group-dialog[1]/rc-dialog[@class=&quot;ap-group wizard&quot;]/p-dialog[@class=&quot;popup-dialog ng-tns-c60-20 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-20 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c60-20 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-footer ng-tns-c60-20 ng-star-inserted&quot;]/p-footer[@class=&quot;ng-tns-c60-20 ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;footer-buttons&quot;]/rc-button-with-spinner[1]/div[@class=&quot;button-with-spinner ng-star-inserted&quot;]/p-button[@class=&quot;orange-btn&quot;]/button[@class=&quot;p-ripple p-button p-component&quot;]/span[@class=&quot;p-button-label ng-star-inserted&quot;]</value>
+      <webElementGuid>b235e5ef-9615-4dcc-a23d-524c39826755</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::span[1]</value>
+      <webElementGuid>2b6e1982-a9af-40a2-af7a-ed9689c7ef47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ken-R550p'])[2]/following::span[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Including any AP that will be added to a selected AP group in the future'])[1]/following::span[2]</value>
+      <webElementGuid>a2143c49-8357-492e-9ab7-e60882c87c83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>685e5eb6-5eb9-44e3-a290-07b9ebe0fed9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +110,31 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//rc-button-with-spinner/div/p-button/button/span</value>
+      <webElementGuid>1707bddc-ec70-4178-9351-ce5a30fb9c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>1ec98853-5e48-48eb-8ed5-f0185bbe5bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>b7e0f90e-e214-42a9-a299-bccbcda197f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ken-R550p'])[2]/following::span[2]</value>
+      <webElementGuid>59712b5a-c435-4e07-9985-0bb73fc0ad01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Image'])[1]/following::span[2]</value>
+      <webElementGuid>5b9c60c0-410c-4f1a-bfdd-35265d01350b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,5 +150,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/p-button/button/span</value>
+      <webElementGuid>d1cb2cec-42ce-464c-a686-ab57043f5340</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -27,7 +27,7 @@
    <testCaseLink>
       <guid>a3d6d4a4-7ff3-40c4-bd30-b098d906af9b</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Clean-Testbed/Remove WLAN</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

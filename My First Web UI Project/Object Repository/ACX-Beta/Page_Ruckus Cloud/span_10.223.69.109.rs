@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>000a1651-e3a0-4a30-adb9-41f5d173c31e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,13 +30,15 @@
       <name>text</name>
       <type>Main</type>
       <value>10.223.69.109</value>
+      <webElementGuid>abef4618-5887-4bd9-8a59-ae6e7e62a579</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-ap-properties-dialog[1]/rc-dialog[1]/p-dialog[@class=&quot;popup-dialog ng-tns-c60-23 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-23 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c60-23 tab-dialog ap-properties-dialog p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-23 p-dialog-content&quot;]/div[@class=&quot;dialog-content ng-tns-c60-23&quot;]/rc-tabs[1]/div[@class=&quot;dialog-tab-body ng-star-inserted&quot;]/rc-ap-general-properties-form[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/section[2]/div[@class=&quot;field-group-2&quot;]/span[1]</value>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-ap-properties-dialog[1]/rc-dialog[1]/p-dialog[@class=&quot;popup-dialog ng-tns-c141-109 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-109 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c141-109 tab-dialog ap-properties-dialog p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-109 p-dialog-content&quot;]/div[@class=&quot;dialog-content ng-tns-c141-109&quot;]/rc-tabs[1]/div[@class=&quot;dialog-tab-body ng-star-inserted&quot;]/rc-ap-general-properties-form[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/section[2]/div[@class=&quot;field-group-2&quot;]/span[1]</value>
+      <webElementGuid>182eb2c7-91f6-4fd6-aed4-0e50025efd95</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IP Address:'])[1]/following::span[1]</value>
+      <webElementGuid>8c8256fc-02db-43d9-a700-0c47957e74f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MAC Address:'])[1]/following::span[2]</value>
+      <webElementGuid>8a215176-4713-4d22-9c4b-c55e434d0316</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,13 +62,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ext. IP Address:'])[1]/preceding::span[1]</value>
+      <webElementGuid>d55f8901-700f-4e65-846c-f449590799d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[1]/preceding::span[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[2]/preceding::span[1]</value>
+      <webElementGuid>129dba02-e3d3-4a32-9f8d-b1d1d8902e50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='10.223.69.109']/parent::*</value>
+      <webElementGuid>ee407975-532d-4429-86c5-4e1b29db5c58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +86,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[2]/div[3]/span</value>
+      <webElementGuid>60f7db4d-6a19-418e-bcf9-69a85a1e6f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '10.223.69.109' or . = '10.223.69.109')]</value>
+      <webElementGuid>96f8ad95-f8e8-43b8-8899-715544ae34e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

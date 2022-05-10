@@ -37,9 +37,9 @@ WebUI.click(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/span_OF
 
 WebUI.click(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/a_2.4 GHz  5 GHz'))
 
-WebUI.click(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/span_2.4 GHz  5 GHz'))
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Radio Bands_p-multiselect-trigger-icon ng-tns-c114-21 pi pi-chevron-down'))
 
-WebUI.click(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/li_5 GHz'))
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Radio Bands_p-checkbox-icon pi pi-check_2_4G'))
 
 WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_wlan_5Gonly_Save'))
 

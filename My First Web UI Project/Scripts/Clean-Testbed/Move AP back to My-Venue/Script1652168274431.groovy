@@ -31,7 +31,7 @@ WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Edit AP'))
 
 WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/Dropmenu_My-Venue_in_AP'))
 
-WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/li_2nd-Venue'))
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/li_1st-Venue'))
 
 WebUI.waitForElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/button_Save_AP'), 3)
 
@@ -47,5 +47,5 @@ WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_APs (1)'))
 
 WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Ken-R550p_Txt'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_My-Venue-1_in_AP'), 3)
+WebUI.verifyElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_My-Venue'), 3)
 

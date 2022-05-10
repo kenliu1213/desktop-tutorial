@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Move AP back</description>
+   <name>Move AP back to My-Venue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8621760-723f-4b2b-9d1d-006dd0c40caf</testCaseGuid>
+</TestCaseEntity>

@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>2a33fe46-0572-4f0b-850a-ea42e88b7533</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>42c55844-7b67-437b-8ff3-76564f2351bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-button p-component p-ripple</value>
+      <webElementGuid>8af09494-cd27-4805-96bb-b2357c1ae89b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete Network</value>
+      <webElementGuid>aed5197f-79fe-4355-a3f7-ad450e9b1378</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,47 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-confirm-delete-dialog[1]/rc-dialog[1]/p-dialog[@class=&quot;popup-dialog ng-tns-c60-15 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-15 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c60-15 confirmation-popup p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-footer ng-tns-c60-15 ng-star-inserted&quot;]/p-footer[@class=&quot;ng-tns-c60-15 ng-star-inserted&quot;]/div[@class=&quot;action-buttons ng-star-inserted&quot;]/p-button[@class=&quot;orange-btn&quot;]/button[@class=&quot;p-button p-component p-ripple&quot;]</value>
+      <webElementGuid>6178b396-a23e-42b0-9ec1-2bfad286bd48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f297cfa0-9248-4c58-acbe-9465674d9549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>11429ebd-c0c4-4b16-93b3-342d535f8aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component p-ripple</value>
+      <webElementGuid>86bd2a13-e59c-415e-98bc-2fb020443c71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Network</value>
+      <webElementGuid>d090f2d6-a97e-4418-bab7-fb279aa34780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-confirm-delete-dialog[1]/rc-dialog[1]/p-dialog[@class=&quot;popup-dialog ng-tns-c60-15 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-15 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c60-15 confirmation-popup p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-footer ng-tns-c60-15 ng-star-inserted&quot;]/p-footer[@class=&quot;ng-tns-c60-15 ng-star-inserted&quot;]/div[@class=&quot;action-buttons ng-star-inserted&quot;]/p-button[@class=&quot;orange-btn&quot;]/button[@class=&quot;p-button p-component p-ripple&quot;]</value>
+      <webElementGuid>238fa239-80de-4bd2-9403-dd67aa9e8e53</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,6 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>38d9d076-8b09-4b7c-a146-0793cba7de0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>f47a621a-f9e4-4d14-b184-0f4da4d34e52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete this Network?'])[1]/following::button[2]</value>
+      <webElementGuid>304111fa-1cec-48b3-8e5f-386c9d7e65ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +126,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p-footer/div/p-button/button</value>
+      <webElementGuid>3caa648d-bd6b-4c00-b2a1-08fbd210ee32</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

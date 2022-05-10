@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>baf715c1-bad2-471f-8915-9e1f301add7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-item-label</value>
+      <webElementGuid>e13af7af-70d7-4fc9-9a93-f892bb002d7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Venues</value>
+      <webElementGuid>33544ae4-5815-4ed3-8a33-36a833b5bb62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,71 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/rc-left-menu[@class=&quot;ng-star-inserted&quot;]/nav[1]/a[@class=&quot;leftmenu-tab ng-star-inserted active&quot;]/div[@class=&quot;menu-item-label&quot;]</value>
+      <webElementGuid>cd50dfea-cd9c-4d0e-a298-1731ae90fb7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d24978b9-58cd-4b65-82ca-6935a466e33f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item-label</value>
+      <webElementGuid>d6eb9fbd-73da-4fef-91db-0875a03007af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Venues</value>
+      <webElementGuid>11750be9-dec4-4674-8366-6c0e45f93e22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/rc-left-menu[@class=&quot;ng-star-inserted&quot;]/nav[1]/a[@class=&quot;leftmenu-tab ng-star-inserted&quot;]/div[@class=&quot;menu-item-label&quot;]</value>
+      <webElementGuid>5a01c615-d04c-42ae-ac5d-76c470cad4e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17284a2d-448d-45ec-ac63-5f93cd9cd796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item-label</value>
+      <webElementGuid>84cba366-54fa-4d9e-9e00-888f93c84004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Venues</value>
+      <webElementGuid>5160bf34-334b-4474-8e66-b1933bd2c109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/rc-left-menu[@class=&quot;ng-star-inserted&quot;]/nav[1]/a[@class=&quot;leftmenu-tab ng-star-inserted active&quot;]/div[@class=&quot;menu-item-label&quot;]</value>
+      <webElementGuid>fb231d63-658f-4b91-b21d-2ac7848b2ab9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,13 +118,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[1]</value>
+      <webElementGuid>06343867-486d-4856-b799-966854d9b2c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Company 1692'])[1]/following::div[8]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Company 1692'])[1]/following::div[10]</value>
+      <webElementGuid>4d47042a-dd7c-42f6-8bd7-d1e88c8bacb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Networking Devices'])[1]/preceding::div[1]</value>
+      <webElementGuid>a30b82e8-9363-40fe-8008-2346695488c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +142,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wireless Networks'])[1]/preceding::div[2]</value>
+      <webElementGuid>e74d7a30-cce3-476c-99cf-6c3ca86db81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Venues']/parent::*</value>
+      <webElementGuid>b6a92dbc-6e87-4d4d-ab5f-cce6b894c9f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +158,22 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]/div</value>
+      <webElementGuid>8e7c4c8d-f2b8-4494-adbb-6da4f902dd37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Venues' or . = 'Venues')]</value>
+      <webElementGuid>4bf853fe-a827-4e99-b3ee-dc51d353080c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Company 1692'])[1]/following::div[8]</value>
+      <webElementGuid>1f638db2-88a6-423b-91bc-76c4f11fb7c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

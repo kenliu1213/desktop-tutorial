@@ -6,12 +6,12 @@
    <elementGuidId>68f27051-5987-4061-a434-a02e0d8a52e4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::span[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>9ef60556-b3ec-4d3c-bd32-551b1903307d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,55 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete</value>
+      <webElementGuid>54885033-3b16-4446-9aaa-c6cb70b62eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;main-area&quot;]/rc-venues-list[@class=&quot;list-layout ng-star-inserted&quot;]/div[@class=&quot;content-frame grid-layout&quot;]/div[@class=&quot;top-buttons-area ng-star-inserted&quot;]/rc-grid-button-bar[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;left-button-bar&quot;]/rc-button-bar[@class=&quot;ng-star-inserted&quot;]/div[1]/span[@class=&quot;ng-star-inserted&quot;]/rc-link-button[@class=&quot;left&quot;]/button[1]/span[1]</value>
+      <webElementGuid>45b695f8-9e80-4b29-9ee3-04d7ecbc83b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>728aba33-1ae8-4d7d-9f72-f13d2d448c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>36c3761c-7d43-47d1-8635-4347cf2faaca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;main-area&quot;]/rc-temp-container[@class=&quot;ng-star-inserted&quot;]/rc-networks-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content-frame grid-layout&quot;]/div[@class=&quot;top-buttons-area ng-star-inserted&quot;]/rc-grid-button-bar[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;left-button-bar&quot;]/rc-button-bar[@class=&quot;ng-star-inserted&quot;]/div[1]/span[@class=&quot;ng-star-inserted&quot;]/rc-link-button[@class=&quot;left&quot;]/button[1]/span[1]</value>
+      <webElementGuid>63da9b06-6ce5-4b03-91c0-44283c5e01ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>288d18f3-f676-4f2c-accf-c3333aca3b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>79a9fde9-b274-492e-bd51-d95d25745e1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;main-area&quot;]/rc-networking-devices[@class=&quot;ng-star-inserted&quot;]/rc-tabs[1]/div[@class=&quot;content-frame overview ng-star-inserted&quot;]/rc-aps[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content-frame grid-layout no-border-padding&quot;]/rc-ap-group-list[@class=&quot;list-layout ng-star-inserted&quot;]/div[@class=&quot;content-frame grid-layout no-border-padding&quot;]/div[@class=&quot;top-buttons-area&quot;]/rc-grid-button-bar[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;left-button-bar&quot;]/rc-button-bar[@class=&quot;ng-star-inserted&quot;]/div[1]/span[@class=&quot;ng-star-inserted&quot;]/rc-link-button[@class=&quot;left&quot;]/button[1]/span[1]</value>
+      <webElementGuid>e0acc4c8-532b-42dc-94ff-8e266010f1a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -43,27 +94,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::span[2]</value>
+      <webElementGuid>740da29f-d7e0-4758-b201-fbfeecf06adc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP Groups'])[1]/following::span[4]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(2)'])[1]/following::span[4]</value>
+      <webElementGuid>945ce088-80b9-4dbc-acf1-84b67cae1807</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add AP Group'])[1]/preceding::span[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Venue'])[1]/preceding::span[1]</value>
+      <webElementGuid>c66050ca-6553-41b9-962b-c666fd14ff7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set row groups'])[1]/preceding::span[4]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Cities'])[1]/preceding::span[4]</value>
+      <webElementGuid>b6017576-b65f-4da7-ab5d-40927cafd52d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>8d3eec4c-3adf-4673-838b-103ac12e86e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,13 +134,15 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/rc-link-button/button/span</value>
+      <webElementGuid>e2c0c264-8fd4-495e-9a56-a6b25797d969</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[1]/following::span[4]</value>
+      <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>818c1ef1-ef2e-40c6-83e8-8656f7f31e03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,5 +150,38 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Network'])[1]/preceding::span[1]</value>
+      <webElementGuid>2047fca5-93a4-4e69-80da-fc22082772f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set row groups'])[1]/preceding::span[4]</value>
+      <webElementGuid>6bcb080d-add1-483e-be97-f19d22d2b8ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP Groups'])[1]/following::span[4]</value>
+      <webElementGuid>f2b93933-49bc-43b0-b9a0-14e1272db460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add AP Group'])[1]/preceding::span[1]</value>
+      <webElementGuid>cf287438-843b-40e0-a21f-6d9935fc06dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[1]/following::span[4]</value>
+      <webElementGuid>df552038-4da3-4042-950a-10d2f27caa70</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

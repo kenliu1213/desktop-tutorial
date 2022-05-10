@@ -17,15 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/a_Venues'))
+WebUI.refresh()
 
-WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_Ken-Test-Venue'))
+WebUI.click(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/div_Venues'))
 
-WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Delete Venue'))
+WebUI.verifyElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_My-Venue-1'), 3)
+
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_My-Venue-1'))
+
+WebUI.click(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/span_Delete Venue'))
 
 WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/button_Delete Venue'))
 
-WebUI.verifyElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_Venue Venue was deleted'), 5)
-
-WebUI.verifyElementNotPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_Ken-Test-Venue'), 1)
+WebUI.verifyElementNotPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_My-Venue-1'), 3)
 

@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>9d61e6ef-eccc-45e7-8f79-5b83a19f9914</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete Venue</value>
+      <webElementGuid>076092c5-ab2b-4e9a-bdd5-55a4d352341a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,95 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;main-area&quot;]/rc-venue-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;top-grey-area&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;manage-buttons-container&quot;]/rc-button-bar[1]/div[1]/span[@class=&quot;ng-star-inserted&quot;]/rc-link-button[@class=&quot;left&quot;]/button[1]/span[1]</value>
+      <webElementGuid>cf770543-aa96-4243-b2bb-c8add40f15c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4c8a191a-9276-4014-a95f-6742bad419cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label ng-star-inserted</value>
+      <webElementGuid>b7e4ab2c-3d1b-46d2-b403-7c38178ceea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Venue</value>
+      <webElementGuid>788a6574-97fe-4156-bcfb-696353dbee28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-confirm-delete-dialog[1]/rc-dialog[1]/p-dialog[@class=&quot;popup-dialog ng-tns-c141-21 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-21 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c141-21 confirmation-popup p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-footer ng-tns-c141-21 ng-star-inserted&quot;]/p-footer[@class=&quot;ng-tns-c141-21 ng-star-inserted&quot;]/div[@class=&quot;action-buttons ng-star-inserted&quot;]/p-button[@class=&quot;orange-btn&quot;]/button[@class=&quot;p-button p-component p-ripple&quot;]/span[@class=&quot;p-button-label ng-star-inserted&quot;]</value>
+      <webElementGuid>12e542eb-a17d-4278-9416-90cebe65494a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>88d73105-ab32-4761-aa54-dd359e390609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label ng-star-inserted</value>
+      <webElementGuid>895a9c4c-a701-45f9-98df-cbe16f263021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Venue</value>
+      <webElementGuid>929c81be-099a-490a-ac7a-8f7d9ffc8bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-confirm-delete-dialog[1]/rc-dialog[1]/p-dialog[@class=&quot;popup-dialog ng-tns-c141-123 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-123 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c141-123 confirmation-popup p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-footer ng-tns-c141-123 ng-star-inserted&quot;]/p-footer[@class=&quot;ng-tns-c141-123 ng-star-inserted&quot;]/div[@class=&quot;action-buttons ng-star-inserted&quot;]/p-button[@class=&quot;orange-btn&quot;]/button[@class=&quot;p-button p-component p-ripple&quot;]/span[@class=&quot;p-button-label ng-star-inserted&quot;]</value>
+      <webElementGuid>2bbffcdf-e441-43e3-b398-01e271d6cd09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2934d25a-f014-411c-a42a-fb5bfe73f17a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Venue</value>
+      <webElementGuid>6488c348-34ed-4d68-b44b-fcbb4a5d0f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;main-area&quot;]/rc-venue-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;top-grey-area&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;manage-buttons-container&quot;]/rc-button-bar[1]/div[1]/span[@class=&quot;ng-star-inserted&quot;]/rc-link-button[@class=&quot;left&quot;]/button[1]/span[1]</value>
+      <webElementGuid>d7d8c1e9-dc25-4ce9-b3b0-29e09504501c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -43,13 +134,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::span[2]</value>
+      <webElementGuid>89cf97c9-e539-44a2-a7b1-20973facca03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ken-Test-Venue'])[1]/following::span[3]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My-Venue-1'])[1]/following::span[3]</value>
+      <webElementGuid>f13aa978-2f30-4f38-bd7b-6f216b8c5b24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/preceding::span[1]</value>
+      <webElementGuid>5e9b8496-6a16-4bc0-b505-7ae7abcd6c77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='In setup phase'])[1]/preceding::span[1]</value>
+      <webElementGuid>6f60be40-bf37-4662-bf24-7d5d4a50074b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Delete Venue']/parent::*</value>
+      <webElementGuid>0c5d7f66-b9c6-49b0-bf77-bf9f872a9f86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +174,46 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/rc-link-button/button/span</value>
+      <webElementGuid>596f414d-73c2-4594-aea4-c34c8810846c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delete Venue' or . = 'Delete Venue')]</value>
+      <webElementGuid>9939a11b-8907-4fe6-82db-62854948adcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>3c90f5ab-4837-4bba-95a6-b9e7f76d00fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete this Venue?'])[1]/following::span[2]</value>
+      <webElementGuid>b65697bb-236a-4639-85c3-83343815553f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-footer/div/p-button/button/span</value>
+      <webElementGuid>bcc2dd76-1535-486a-af3a-7c66c3618738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ken-Test-Venue'])[1]/following::span[3]</value>
+      <webElementGuid>990c4a44-105a-4d57-8f6e-8f3252eb1e35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

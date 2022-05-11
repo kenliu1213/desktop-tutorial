@@ -17,3 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/em_Venues_menu-icon menu-network-devices'))
+
+WebUI.mouseOverOffset(findTestObject('ACX-Beta/Page_Ruckus Cloud/em_Venues_menu-icon menu-network-devices'), 10, 0)
+
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Add AP'))
+
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Select venue'))
+
+WebUI.waitForElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/li_1st_dropdown_venue'), 3)
+
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/li_1st_dropdown_venue'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.sendKeys(findTestObject('ACX-Beta/Page_Ruckus Cloud/input_AP Name_apName'), 'Ken-R510')
+
+WebUI.sendKeys(findTestObject('ACX-Beta/Page_Ruckus Cloud/input_Serial Number_apSerialNumber'), '332002010589')
+
+WebUI.waitForElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/button_Save_AP'), 3)
+
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/button_Save_AP'))
+
+WebUI.verifyElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Ken-R510_in_APs'), 0)
+

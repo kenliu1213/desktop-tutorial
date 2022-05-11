@@ -11,10 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Company 1692'])[1]/following::div[5]</value>
+         <value>//div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/rc-topbar[1]/div[@class=&quot;topbar-container&quot;]/div[@class=&quot;topbar-right&quot;]/div[@class=&quot;click-boxes ng-star-inserted&quot;]/div[@class=&quot;icon-user activated&quot;]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,38 +60,10 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container minimized&quot;]/rc-topbar[1]/div[@class=&quot;topbar-container&quot;]/div[@class=&quot;topbar-right&quot;]/div[@class=&quot;click-boxes ng-star-inserted&quot;]/div[@class=&quot;icon-user activated&quot;]</value>
+      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/rc-topbar[1]/div[@class=&quot;topbar-container&quot;]/div[@class=&quot;topbar-right&quot;]/div[@class=&quot;click-boxes ng-star-inserted&quot;]/div[@class=&quot;icon-user activated&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Company 1692'])[1]/following::div[5]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FisrtName 1692 LastName 1692'])[1]/following::div[6]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[1]/preceding::div[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change password'])[1]/preceding::div[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>

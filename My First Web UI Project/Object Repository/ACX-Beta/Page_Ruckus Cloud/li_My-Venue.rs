@@ -13,8 +13,12 @@
          <key>CSS</key>
          <value>li.p-dropdown-item.p-ripple</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'My-Venue' or . = 'My-Venue')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-ap-group-dialog[1]/rc-dialog[@class=&quot;ap-group wizard&quot;]/p-dialog[@class=&quot;popup-dialog ng-tns-c60-13 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-13 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c60-13 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-13 p-dialog-content&quot;]/div[@class=&quot;dialog-content ng-tns-c60-13&quot;]/rc-wizard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wizard-body&quot;]/div[1]/rc-wizard-step[1]/form[@class=&quot;ng-star-inserted ng-touched ng-dirty ng-invalid&quot;]/div[@class=&quot;field-group-2 required-field margin-top&quot;]/p-dropdown[@id=&quot;venue&quot;]/div[@class=&quot;ng-tns-c51-14 p-dropdown p-component p-dropdown-open&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c51-14 p-dropdown-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-dropdown-items-wrapper ng-tns-c51-14&quot;]/ul[@class=&quot;p-dropdown-items ng-tns-c51-14&quot;]/p-dropdownitem[@class=&quot;ng-tns-c51-14 ng-star-inserted&quot;]/li[@class=&quot;p-dropdown-item p-ripple&quot;]</value>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-add-ap-dialog[1]/rc-dialog[1]/p-dialog[@class=&quot;popup-dialog ng-tns-c60-21 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-21 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c60-21 overflow-hidden p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c60-21 p-dialog-content&quot;]/div[@class=&quot;dialog-content ng-tns-c60-21&quot;]/div[@class=&quot;popup-cell&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;field-group-3 required-field&quot;]/p-dropdown[@id=&quot;venue&quot;]/div[@class=&quot;ng-tns-c51-19 p-dropdown p-component p-dropdown-open p-focus&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c51-19 p-dropdown-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-dropdown-items-wrapper ng-tns-c51-19&quot;]/ul[@class=&quot;p-dropdown-items ng-tns-c51-19&quot;]/p-dropdownitem[@class=&quot;ng-tns-c51-19 ng-star-inserted&quot;]/li[@class=&quot;p-dropdown-item p-ripple&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -91,7 +95,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field is required'])[2]/preceding::li[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My-Venue-1'])[1]/preceding::li[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,5 +103,19 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'My-Venue' or . = 'My-Venue')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field is required'])[2]/preceding::li[1]</value>
    </webElementXpaths>
 </WebElementEntity>

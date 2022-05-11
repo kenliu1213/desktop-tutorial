@@ -23,6 +23,12 @@ WebUI.mouseOverOffset(findTestObject('ACX-Beta/Page_Ruckus Cloud/em_Venues_menu-
 
 WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Add AP'))
 
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Select venue'))
+
+WebUI.waitForElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/li_1st_dropdown_venue'), 3)
+
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/li_1st_dropdown_venue'), FailureHandling.STOP_ON_FAILURE)
+
 WebUI.sendKeys(findTestObject('ACX-Beta/Page_Ruckus Cloud/input_AP Name_apName'), 'Ken-R550p')
 
 WebUI.sendKeys(findTestObject('ACX-Beta/Page_Ruckus Cloud/input_Serial Number_apSerialNumber'), '152102010713')

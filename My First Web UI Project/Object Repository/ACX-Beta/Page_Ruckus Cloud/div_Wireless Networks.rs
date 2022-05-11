@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,6 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>6968bf41-9cec-4e51-9fd8-14f25a416dd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-item-label</value>
+      <webElementGuid>f854fcc3-ae30-4be0-80de-992aabd89831</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Wireless Networks</value>
+      <webElementGuid>6381528c-0c9f-4070-952b-8cf7de7a43ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +45,39 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/rc-left-menu[@class=&quot;ng-star-inserted&quot;]/nav[1]/a[@class=&quot;leftmenu-tab ng-star-inserted&quot;]/div[@class=&quot;menu-item-label&quot;]</value>
+      <webElementGuid>d0561e07-fee8-4a5d-95f3-96b2b19ed394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d03c733b-7854-461a-a922-5608301fa539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item-label</value>
+      <webElementGuid>7e59086d-092e-4bc8-92f4-46220dad74ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wireless Networks</value>
+      <webElementGuid>e28e26e5-3085-42c2-9a24-f05ede0727f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/rc-left-menu[@class=&quot;ng-star-inserted&quot;]/nav[1]/a[@class=&quot;leftmenu-tab ng-star-inserted&quot;]/div[@class=&quot;menu-item-label&quot;]</value>
+      <webElementGuid>40f6b5be-c3f0-4143-8864-7fab50fe1d93</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Networking Devices'])[1]/following::div[1]</value>
+      <webElementGuid>ea731d07-da20-47be-b435-3cd7776b9ed6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Venues'])[1]/following::div[2]</value>
+      <webElementGuid>a2f69ef5-0ab1-48c6-9d69-96d0ce344896</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch Configuration'])[1]/preceding::div[1]</value>
+      <webElementGuid>a5ef9f5a-ee45-4bb8-a74b-033515c6a248</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/preceding::div[2]</value>
+      <webElementGuid>5897491f-82c5-44bf-a3d1-7319539d7c9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Wireless Networks']/parent::*</value>
+      <webElementGuid>a5ba6d3e-9270-41f0-9902-c4b6c788867b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,5 +125,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[4]/div</value>
+      <webElementGuid>a66c8b7d-c6e9-45c5-943b-8709f3e1fb64</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

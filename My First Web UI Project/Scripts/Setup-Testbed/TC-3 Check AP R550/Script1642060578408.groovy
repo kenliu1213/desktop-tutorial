@@ -23,17 +23,15 @@ WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_APs (1)'))
 
 WebUI.waitForElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Ken-R550p_in_APs'), 3)
 
-WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Ken-R550p_in_APs'))
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Ken-R550p_Txt'))
 
-WebUI.click(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/span_More'))
+WebUI.click(findTestObject('Object Repository/Page_Ruckus Cloud/span_More'))
 
 WebUI.verifyElementText(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_152102010713'), '152102010713')
 
 WebUI.verifyElementText(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/span_8423882EEDE0'), '84:23:88:2E:ED:E0')
 
-WebUI.click(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/span_10.223.69.109'))
-
-WebUI.click(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/span_--'))
+WebUI.verifyElementText(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/span_10.223.69.109'), '10.223.69.109')
 
 WebUI.verifyElementText(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/span_R550'), 'R550')
 

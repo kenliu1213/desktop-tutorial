@@ -35,6 +35,12 @@
    </integratedEntity>
    <comment></comment>
    <testCaseGuid>af11cdc9-8375-4769-b084-111244833229</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7896cd81-21f8-4cbf-a434-f96191687593</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'dog1692@email.com'</defaultValue>
       <description>dog1692@email.com</description>

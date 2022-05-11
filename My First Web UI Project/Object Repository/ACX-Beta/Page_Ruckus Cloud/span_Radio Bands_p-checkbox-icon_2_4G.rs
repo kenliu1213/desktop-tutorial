@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Radio Bands_p-checkbox-icon_2_4G</name>
+   <tag></tag>
+   <elementGuidId>5cbc319f-b80f-4706-be36-f9b55450a34e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.p-multiselect-item.p-ripple > div.p-checkbox.p-component > div.p-checkbox-box > span.p-checkbox-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>899c94a1-f21b-4f76-9799-e9cc0303ff76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-icon</value>
+      <webElementGuid>e73e0bde-3e74-4393-b910-b8a5fc8f3c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-network-ap-group-dialog[1]/rc-dialog[@class=&quot;network-ap-group&quot;]/p-dialog[@class=&quot;popup-dialog ng-tns-c141-20 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-20 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c141-20 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-20 p-dialog-content&quot;]/div[@class=&quot;dialog-content ng-tns-c141-20&quot;]/div[@class=&quot;popup-cell&quot;]/div[@class=&quot;radio-container&quot;]/div[@class=&quot;container grey-bg ng-star-inserted&quot;]/div[@class=&quot;field-group-2&quot;]/p-multiselect[@class=&quot;ng-tns-c114-21 ng-valid ng-star-inserted p-inputwrapper-filled p-inputwrapper-focus ng-touched ng-dirty&quot;]/div[@class=&quot;ng-tns-c114-21 p-multiselect p-component p-multiselect-open&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c114-21 p-multiselect-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-multiselect-items-wrapper ng-tns-c114-21&quot;]/ul[@class=&quot;p-multiselect-items p-component ng-tns-c114-21&quot;]/p-multiselectitem[@class=&quot;ng-tns-c114-21 ng-star-inserted&quot;]/li[@class=&quot;p-multiselect-item p-ripple&quot;]/div[@class=&quot;p-checkbox p-component&quot;]/div[@class=&quot;p-checkbox-box&quot;]/span[@class=&quot;p-checkbox-icon&quot;]</value>
+      <webElementGuid>4e1a82f3-8db0-43a2-a4ad-1ce15707eaef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/span</value>
+      <webElementGuid>e1042207-3d74-44ac-a9f9-a6517c9c433e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Radio Bands_p-checkbox-icon pi pi-check</name>
+   <tag></tag>
+   <elementGuidId>6cc1bd48-8bda-4f1e-924b-65d758b5634b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-checkbox-icon.pi.pi-check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0d0c820b-a7f3-421c-8ef1-1d79406144ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-icon pi pi-check</value>
+      <webElementGuid>95bda6c6-bbad-45cb-805a-f5c29a5ae330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/rc-network-ap-group-dialog[1]/rc-dialog[@class=&quot;network-ap-group&quot;]/p-dialog[@class=&quot;popup-dialog ng-tns-c141-27 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-27 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c141-27 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c141-27 p-dialog-content&quot;]/div[@class=&quot;dialog-content ng-tns-c141-27&quot;]/div[@class=&quot;popup-cell&quot;]/div[@class=&quot;radio-container&quot;]/div[@class=&quot;container grey-bg ng-star-inserted&quot;]/div[@class=&quot;field-group-2&quot;]/p-multiselect[@class=&quot;ng-tns-c114-28 ng-pristine ng-valid ng-star-inserted p-inputwrapper-filled p-inputwrapper-focus ng-touched&quot;]/div[@class=&quot;ng-tns-c114-28 p-multiselect p-component p-multiselect-open&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c114-28 p-multiselect-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-multiselect-items-wrapper ng-tns-c114-28&quot;]/ul[@class=&quot;p-multiselect-items p-component ng-tns-c114-28&quot;]/p-multiselectitem[@class=&quot;ng-tns-c114-28 ng-star-inserted&quot;]/li[@class=&quot;p-multiselect-item p-highlight p-ripple&quot;]/div[@class=&quot;p-checkbox p-component&quot;]/div[@class=&quot;p-checkbox-box p-highlight&quot;]/span[@class=&quot;p-checkbox-icon pi pi-check&quot;]</value>
+      <webElementGuid>d554611a-534f-47ef-9958-34e525011a99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/span</value>
+      <webElementGuid>8bda13c4-8b1a-4c5d-9ac5-b0bf92252431</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

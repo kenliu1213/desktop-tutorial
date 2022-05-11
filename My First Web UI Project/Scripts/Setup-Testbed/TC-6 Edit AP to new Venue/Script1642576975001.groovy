@@ -25,7 +25,7 @@ WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_APs (1)'))
 
 WebUI.waitForElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Ken-R550p_in_APs'), 5)
 
-WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Ken-R550p_in_APs'))
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Ken-R550p_Txt'))
 
 WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Edit AP'))
 
@@ -45,7 +45,7 @@ WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/Tab_WiFi (1)_Networks'))
 
 WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_APs (1)'))
 
-WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Ken-R550p_in_APs'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Ken-R550p_Txt'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_My-Venue-1_in_AP'), 0)
+WebUI.verifyElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_My-Venue-1_in_AP'), 3)
 

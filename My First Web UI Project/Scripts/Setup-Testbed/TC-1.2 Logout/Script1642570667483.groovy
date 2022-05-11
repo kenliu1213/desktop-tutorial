@@ -19,11 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/em_Dashboard_menu-icon menu-venues'))
 
-WebUI.scrollToElement(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_Dog Company 1692_icon-user user-widget'), 3)
+WebUI.scrollToElement(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_Dog Company_icon-user user-widget'), 3)
 
-WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_Dog Company 1692_icon-user user-widget'))
+WebUI.mouseOver(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_Dog Company_icon-user user-widget'))
 
-WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Log Out'))
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_Dog Company_icon-user user-widget'))
+
+WebUI.waitForElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Log Out'), 3)
+
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Log Out'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/ACX-Beta/Page_Log in to RUCKUS Cloud/img_RUCKUS Cloud_logo-commscope'), 
     1)

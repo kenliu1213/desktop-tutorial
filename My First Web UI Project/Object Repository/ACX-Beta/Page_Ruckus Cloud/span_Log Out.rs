@@ -79,4 +79,11 @@
       <type>Main</type>
       <value>//li[4]/rc-link-button/button/span</value>
    </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log Out' or . = 'Log Out')]</value>
+   </webElementXpaths>
 </WebElementEntity>

@@ -19,13 +19,16 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_Wireless Networks'))
 
-WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Ken-ACX-WPA'))
+WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Dogfood-ACX-WPA-1'))
 
 WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Delete Network'))
+
+WebUI.setText(findTestObject('Object Repository/ACX-Beta/Page_Ruckus Cloud/input_concat(Type the word , , Delete, ,  t_c20c9b'), 
+    'Delete')
 
 WebUI.click(findTestObject('ACX-Beta/Page_Ruckus Cloud/button_Delete Network'))
 
 WebUI.verifyElementPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_Network remove_Notification'), 5)
 
-WebUI.verifyElementNotPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/div_Ken-ACX-WPA'), 1)
+WebUI.verifyElementNotPresent(findTestObject('ACX-Beta/Page_Ruckus Cloud/span_Dogfood-ACX-WPA-1'), 1)
 

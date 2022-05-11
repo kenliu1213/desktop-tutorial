@@ -10,11 +10,15 @@
          <value>a.leftmenu-tab.ng-star-inserted.active</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Company 1692'])[1]/following::a[1]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

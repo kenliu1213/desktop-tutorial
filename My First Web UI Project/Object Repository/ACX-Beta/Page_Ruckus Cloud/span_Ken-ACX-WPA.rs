@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>255a8ee8-c538-43cf-9cd4-9c2ff4bfce6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon-text link</value>
+      <webElementGuid>03445825-b15e-4f4e-92c9-99b60f74db3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ken-ACX-WPA</value>
+      <webElementGuid>cf4c5c04-1951-429f-9d26-877b06b54611</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,39 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;main-area&quot;]/rc-temp-container[@class=&quot;ng-star-inserted&quot;]/rc-networks-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content-frame grid-layout&quot;]/div[@class=&quot;table-area&quot;]/rc-networks-grid[1]/rc-new-grid[1]/div[@class=&quot;ui-table&quot;]/ag-grid-angular[@class=&quot;ag-theme-alpine ng-star-inserted&quot;]/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-body-viewport ag-layout-normal ag-row-no-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-last ag-row-hover ag-row-focus&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-auto-height ag-cell-value ag-column-hover ag-cell-focus&quot;]/rc-new-grid-column[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;grid-cell-ellipsis ng-star-inserted&quot;]/span[@class=&quot;icon-text link&quot;]</value>
+      <webElementGuid>82c5dbe6-3f95-477e-9b96-d957c96d4a33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fb2c0e49-864d-4356-bdc6-0caa631641c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-text link</value>
+      <webElementGuid>a9e95c3c-eda3-4e52-93e5-5d79f500ac1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ken-ACX-WPA</value>
+      <webElementGuid>5ad8eafd-7f11-42d5-b178-8106179060b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;main-area&quot;]/rc-temp-container[@class=&quot;ng-star-inserted&quot;]/rc-networks-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content-frame grid-layout&quot;]/div[@class=&quot;table-area&quot;]/rc-networks-grid[1]/rc-new-grid[1]/div[@class=&quot;ui-table&quot;]/ag-grid-angular[@class=&quot;ag-theme-alpine ng-star-inserted&quot;]/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-body-viewport ag-layout-normal ag-row-no-animation ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-last ag-row-hover ag-row-focus&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-auto-height ag-cell-value ag-column-hover ag-cell-focus&quot;]/rc-new-grid-column[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;grid-cell-ellipsis ng-star-inserted&quot;]/span[@class=&quot;icon-text link&quot;]</value>
+      <webElementGuid>751fbb79-0410-4d96-a2a4-8c968eec9a5f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VLAN'])[1]/following::span[3]</value>
+      <webElementGuid>6246237e-8b56-455f-b035-0dca9f1cb26e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[1]/following::span[4]</value>
+      <webElementGuid>b47eee96-fa76-47b0-9a6a-2e9c56a285ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='automation wlan create'])[1]/preceding::span[1]</value>
+      <webElementGuid>2f34c389-4452-4b5b-8465-f63da3167544</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre-Shared Key (PSK)'])[1]/preceding::span[2]</value>
+      <webElementGuid>ace4f4e6-bc12-4ebc-9208-aee9a1b5f94f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ken-ACX-WPA']/parent::*</value>
+      <webElementGuid>796d11c2-8cf0-4e50-97a8-aa32e101f1e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,5 +126,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//rc-new-grid-column/div/span</value>
+      <webElementGuid>60d733f4-303f-4116-afb4-d4e3135e1346</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

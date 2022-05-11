@@ -20,7 +20,7 @@
    <UUID>9742f2e4-acfa-4d1e-ba6e-36c962a5af50</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\Kliu\Katalon Studio\My First Web UI Project\My First Web UI Project.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\Kliu\Documents\GitHub\desktop-tutorial\My First Web UI Project\My First Web UI Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -39,5 +39,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>

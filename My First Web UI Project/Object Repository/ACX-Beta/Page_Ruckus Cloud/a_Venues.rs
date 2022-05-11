@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>a.back-to-list.link</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[1]</value>
+         <value>//a[contains(text(),'Venues')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,47 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
+      <webElementGuid>6ae8ab39-1d3a-406b-88c9-aecf60d7a516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>back-to-list link</value>
+      <webElementGuid>cd7870ab-d760-4d0b-969a-9845a523dae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/api/ui/t/f271185e3dd7479ca731dcf957707019/venues</value>
+      <webElementGuid>a0753d91-cad6-4d61-a2ce-5166bdbbd401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Venues </value>
+      <webElementGuid>4904f8fc-7be3-41c7-afda-3f018f2f8e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/div[@class=&quot;main-area&quot;]/rc-venue-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;top-grey-area&quot;]/a[@class=&quot;back-to-list link&quot;]</value>
+      <webElementGuid>ef22160c-872b-460b-883e-7bc1027580e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dca90b5b-e8b6-40af-82b1-6d4726b6166f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +70,7 @@
       <name>tooltipposition</name>
       <type>Main</type>
       <value>bottom</value>
+      <webElementGuid>e4ef88cf-2f3f-4205-b42e-b5e51ceeeeb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,13 +78,15 @@
       <name>class</name>
       <type>Main</type>
       <value>leftmenu-tab ng-star-inserted</value>
+      <webElementGuid>3f2ec01e-8093-47a9-8007-8d3647019081</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>Venues</value>
+      <webElementGuid>704e7212-fe76-4037-9209-43bad24c497b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,13 +94,79 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/rc-root[1]/div[@class=&quot;app-container&quot;]/rc-left-menu[@class=&quot;ng-star-inserted&quot;]/nav[1]/a[@class=&quot;leftmenu-tab ng-star-inserted&quot;]</value>
+      <webElementGuid>8e660ff1-dc7a-4203-9508-3b1e0c128e76</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Venues')]</value>
+      <webElementGuid>3f482d0e-661e-401d-8b8b-b99c31d6c102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat with Support'])[1]/following::a[1]</value>
+      <webElementGuid>25ed256f-08c8-4e3e-87bd-153218b07d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Feedback'])[1]/following::a[1]</value>
+      <webElementGuid>0f1551b1-1e4d-4159-84fe-b888487b3cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My-Venue-1'])[1]/preceding::a[1]</value>
+      <webElementGuid>7f6d9882-7d9e-400b-9a14-f689c1c7269e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::a[1]</value>
+      <webElementGuid>4f9e717b-d945-4c28-b563-75d9b8b41126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/api/ui/t/f271185e3dd7479ca731dcf957707019/venues')]</value>
+      <webElementGuid>5c6e01e0-576d-4480-908c-1bef7ec1c2c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//rc-venue-details/div/a</value>
+      <webElementGuid>58ddee30-b705-473b-b613-706e6abe0c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/api/ui/t/f271185e3dd7479ca731dcf957707019/venues' and (text() = 'Venues ' or . = 'Venues ')]</value>
+      <webElementGuid>4f66724e-5502-4e34-b6ee-df37bcd924f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[1]</value>
+      <webElementGuid>f8028fa1-4d14-4206-a47a-091c21aeb481</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Company 1692'])[1]/following::a[2]</value>
+      <webElementGuid>ab72de21-f392-457b-b7a8-dbe6947e7161</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Networking Devices'])[1]/preceding::a[1]</value>
+      <webElementGuid>cb699cd2-9fe8-4ce8-b704-dbe39e11158c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +190,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
+      <webElementGuid>c068b524-6c7d-4683-879a-a1f2775c1223</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
